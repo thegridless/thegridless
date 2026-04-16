@@ -17,8 +17,8 @@ Passionate about building scalable, high-load systems and microservice architect
 
 ### 🛠 Tech Stack
 
-- **Languages:** Python 3.13, TypeScript, JavaScript, SQL.
-- **Backend:** FastAPI, Django 6.0, SQLAlchemy, AsyncIO, aiokafka, Pydantic, uv, SMTP.
+- **Languages:** Python (3.6–3.13), TypeScript, JavaScript, SQL.
+- **Backend:** FastAPI, Django (1.7–6.0), SQLAlchemy, AsyncIO, aiokafka, Pydantic, uv, SMTP.
 - **Frontend:** Vue 3 / Nuxt, React, Pinia, Element Plus.
 - **Data & AI:** Kafka, Qdrant (RAG/Embeddings), ClickHouse, PostgreSQL (+PostGIS), Redis Stack.
 - **Infrastructure:** Docker, Kubernetes (AKS), Traefik, Nginx, Jenkins, GitLab CI/CD, Slack, Zulip.
