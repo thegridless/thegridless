@@ -1,4 +1,4 @@
-# Hi there, I'm Kirill! 👋
+# Hi there, I'm Kiryl Liavonau! 👋
 
 ## 🚀 Backend Developer | Python Specialist | Architect
 
@@ -45,7 +45,7 @@ Passionate about building scalable, high-load systems and microservice architect
 
 ### 📫 Connect with me
 
-- **LinkedIn:** [Kirill Leonov](https://linkedin.com/in/kiryl-l-a6a2531b9)
+- **LinkedIn:** [Kiryl Liavonau](https://linkedin.com/in/kiryl-l-a6a2531b9)
 - **Email:** kliavonau@gmail.com
 - **Telegram:** [@thegrid](https://t.me/thegrid)
 
