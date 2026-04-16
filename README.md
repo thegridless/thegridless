@@ -1,16 +1,58 @@
-## Hi there 👋
+# Hi there, I'm Kirill! 👋
 
-<!--
-**thegridless/thegridless** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 Backend Developer | Python Specialist | Architect
 
-Here are some ideas to get you started:
+<p align="left">
+  <a href="https://thegridless.github.io/resume/">
+    <img src="https://img.shields.io/badge/View_My_Live_Resume-FF5722?style=for-the-badge&logo=react&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/kiryl-l-a6a2531b9">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Passionate about building scalable, high-load systems and microservice architectures. I focus on code quality, performance optimization, and developer productivity using modern tools and AI.
+
+---
+
+### 🛠 Tech Stack
+
+- **Languages:** Python 3.13, TypeScript, JavaScript, SQL.
+- **Backend:** FastAPI, Django 6.0, SQLAlchemy, AsyncIO, aiokafka, Pydantic, uv, SMTP.
+- **Frontend:** Vue 3 / Nuxt, React, Pinia, Element Plus.
+- **Data & AI:** Kafka, Qdrant (RAG/Embeddings), ClickHouse, PostgreSQL (+PostGIS), Redis Stack.
+- **Infrastructure:** Docker, Kubernetes (AKS), Traefik, Nginx, Jenkins, GitLab CI/CD, Slack, Zulip.
+- **Observability:** Grafana, Prometheus, ELK Stack, Sentry, Elastic APM.
+
+---
+
+### 📈 Key Metrics & Achievements
+
+- ⚡ **Performance:** Cut response times by **40–60%** for multi-source requests via async parallel processing.
+- 🚀 **Scalability:** Refactored core services achieving **323% higher throughput** under peak load.
+- 📦 **Architecture:** Designed and implemented complex **CQRS and Event-driven** architectures with Kafka.
+- 🛠 **DX (Developer Experience):** Developed custom **internal SDKs** and tools (`uv`, `ruff`, `bandit`) reducing boilerplate by **30%**.
+
+---
+
+### 📂 Featured Projects
+
+- **VmesteTrenim Platform:** A social fitness platform with microservices, real-time notifications (WebSockets), and geospatial search (PostGIS).
+- **RAG-based Search Service:** Utilizing LLM embeddings and Qdrant for high-accuracy semantic matching.
+- **API Gateway Router:** A dynamic routing engine for sequential/parallel HTTP execution based on JSON configs.
+
+---
+
+### 📫 Connect with me
+
+- **LinkedIn:** [Kirill Leonov](https://linkedin.com/in/kiryl-l-a6a2531b9)
+- **Email:** kliavonau@gmail.com
+- **Telegram:** [@thegrid](https://t.me/thegrid)
+
+---
+
+### ⚡ Fun Fact
+I brush my teeth while reading the latest framework patch notes. (Actually, I just love staying up-to-date with tech!)
+
+![Kirill's GitHub stats](https://github-readme-stats.vercel.app/api?username=thegridless&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thegridless&layout=compact&theme=tokyonight)
